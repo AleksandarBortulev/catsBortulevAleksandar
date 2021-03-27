@@ -1,0 +1,251 @@
+.menu{
+	background-color: green;
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+}
+.menu a{
+	text-decoration: none;
+	font-size: 20px;
+}
+body{
+	margin: 0;
+}
+.header{
+	background-image: url(img/background.jpg);
+	padding: 150px 0;
+	position: relative;
+}
+.header p{
+	position: absolute;
+	right: 20px;
+	bottom: 5px;
+}
+.header h1{
+	position: absolute;
+	top: 50px;
+	margin: 0;
+	padding: 0;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.fax{
+	background-color: green;
+	padding: 50px 0;
+	position: relative;
+}
+h2{
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+}
+.a1{
+	color: red;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.a2{
+	color: blue;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.a3{
+	color: white;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.body{
+	font-weight: bold;
+}
+.galery img{
+	position: relative;
+	left: 10%;
+	padding: 15px;
+	margin: 40px;
+	border: 4px inset rgba(28,110,164,0.72);
+	border-radius: 40px 40px 40px 40px;
+	-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 50px 50px 50px 50px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 50px 50px 50px 50px rgba(0,0,0,0);
+}
+.galery{
+	position: relative;
+}
+.reg{
+	background-color: green;
+	padding: 50px 0;
+	position: relative;
+}
+.contac{
+	position: relative;
+	left: 30%;
+}
+.b1{
+	width: 40%;
+	padding: 15px;
+}
+.e2{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.e3{
+	position: absolute;
+	right: 5px;
+	top: -10px;
+}
+.e5{
+	margin-bottom: 2px;
+}
+.o{
+	margin: 5px 40%;
+}
+input{
+	margin: 5px 40%;
+}
+select{
+	margin: 5px 40%;
+}
+.o1{
+	position: relative;
+	left: 41%;
+	top: -38px;
+}
+.o2{
+	position: relative;
+	top: -90px;
+	left: 5px;
+	width: 250px;
+	color: red;
+	background-color: blue;
+	border: solid;
+	border-color: yellow;
+	border-radius: 2px;
+}
+.o3{
+	position: relative;
+	top: -90px;
+	left: 5px;
+	width: 250px;
+	color: black;
+	background-color: red;
+	border: solid;
+	border-color: black;
+	border-radius: 2px;
+	padding: 15px;
+}
+.literature{
+	background-color: green;
+	padding: 10px;
+	border: solid;
+	border-color: red;
+	border-radius: 2px;
+}
+.literature h2{
+	color: red;
+}
+.fax2{
+background-color: green;
+	padding: 50px 0;
+	position: relative;
+	border: solid;
+	border-color: red;
+}
+.reg2{
+	background-color: green;
+	padding: 50px 0;
+	position: relative;
+	border: solid;
+	border-color: red;
+	border-radius: 2px;
+}
+.a4{
+	color: yellow;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.a5{
+	color: orange;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.o8{
+	border: solid;
+	border-color: red;
+	border-radius: 2px;
+	position: absolute;
+	width: 15%;
+	left: 38%;
+	top: 250%;
+	padding: 250px 50px;
+}
+.o30{
+	width: 50%;
+	margin: 10% 25%;
+}
+.o40{
+	background-color: red;
+}
+.a6{
+	color: #FF5CD1;
+	text-shadow: 1px 2px 2px #FF00FF;
+}
+.a9{
+	width: 15px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 40%;
+	top: 23.5%;
+}
+.a10{
+	position: absolute;
+	top: 21.3%;
+	left: 41%;
+}
+#demoparagraph {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+-webkit-column-gap: 12px;
+-moz-column-gap: 12px;
+column-gap: 12px;
+-webkit-column-rule: 1px solid #FF22F7;
+-moz-column-rule: 1px solid #FF22F7;
+column-rule: 2px solid #FF22F7;
+}
+.a11{
+	margin: 5px;
+	padding: 0;
+}.a12{
+	text-align: center;
+}
+.a13{
+	width: 400px;
+	position: absolute;
+	top: 1%;
+	left: 60%;
+}
+.a14{
+	background-color: green;
+}
+.a15{
+	color: red;
+	font-size: 20px;
+}
+#szlider{
+    width:100%;
+    height:15px;
+    border:1px solid #000;
+    overflow:hidden; }
+#szliderbar{
+    width:37%;
+    height:15px;
+    border-right: 1px solid #000000;
+    background: #d65946; }
+#szazalek {
+    color: #000000;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    left: 25px;
+    position: relative;
+    top: -16px;
+}
